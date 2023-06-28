@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/makadaotsystemz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="makadaotsystemz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/kavin-abregana-ba5b33226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kavin-abregana-ba5b33226" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kavin-abregana-ba5b33226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kavin-abregana-ba5b33226" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kavin.abregana.31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kavin.abregana.31/" height="30" width="40" /></a>
 </p>
 
