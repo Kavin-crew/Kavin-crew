@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-crew&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-crew" /> </p>
 
-- 🔭 I’m currently working on **learning JavaScript**
+- 🔭 I’m currently working on **JavaScript Fundamentals to React**
 
 - 🌱 I’m currently learning **Sass, JavaScript, React and more in Udemy**
 
