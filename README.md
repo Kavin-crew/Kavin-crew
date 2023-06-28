@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abreganakavin@gmail.com**
 
-- ⚡ Fun fact **devoted to web technology, I spend my leisure time reading and watching anime.**
+- ⚡ Fun fact **devoted to web technology, I spend my leisure time reading manga and watching anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
