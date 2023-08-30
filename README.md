@@ -28,3 +28,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin-crew&show_icons=true&locale=en" alt="kavin-crew" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavin-crew&" alt="kavin-crew" /></p>
+
+<h3 align="center">Courses Certification Taken</h3>
+<ul>
+    <li><a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/" target="_blank">Build Responsive Real-World Websites with HTML and CSS</a></li>
+    <li><a href="https://www.udemy.com/course/advanced-css-and-sass/" target="_blank">Advanced CSS and Sass: Flexbox, Grid, Animations and More!</a></li>
+    <li><a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course 2023: From Zero to Expert!</a></li>
+    <li><a href="https://www.udemy.com/course/full-stack-crash-course/" target="_blank">Crash Course: Build a Full-Stack Web App in a Weekend!</a></li>
+    <li><a href="https://www.udemy.com/course/the-ultimate-react-course/" target="_blank">The Ultimate React Course 2023: React, Redux & More</a></li>
+</ul>
